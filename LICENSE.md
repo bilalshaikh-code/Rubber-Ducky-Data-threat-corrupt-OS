@@ -64,7 +64,7 @@ PART B — NO-MALICIOUS-USE ADDENDUM (APPLIES IN ADDITION TO CC BY-NC-SA 4.0)
    - This Addendum does not create any warranties or representations regarding fitness for a particular purpose.
 
 8. Contact
-   - For responsible disclosure, permission requests, or other license matters, contact: Github()
+   - For responsible disclosure, permission requests, or other license matters, contact: [bilalshaikh-code](https://github.com/bilalshaikh-code)
    - If you accept sample submissions for research, provide a secure intake channel and PGP key via that contact method.
 
 =======================================================================

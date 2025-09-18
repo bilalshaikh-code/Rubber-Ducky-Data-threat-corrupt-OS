@@ -169,7 +169,7 @@ QuackPloit is a research project documenting techniques commonly used by attacke
 
 ### Contact & Attribution
 
-- Contact: github(link) (replace with your secure contact)
+- Contact: [bilalshaikh-code](https://github.com/bilalshaikh-code)
 
 - Optionally include a PGP key or secure channel for receiving samples if you accept them.
 
