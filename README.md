@@ -171,8 +171,6 @@ QuackPloit is a research project documenting techniques commonly used by attacke
 
 - Contact: [bilalshaikh-code](https://github.com/bilalshaikh-code)
 
-- Optionally include a PGP key or secure channel for receiving samples if you accept them.
-
 ## License
 
 This project is licensed under the **CC BY-NC-SA 4.0** License with an additional **No-Malicious-Use Addendum**.  
